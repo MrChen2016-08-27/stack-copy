@@ -1,6 +1,6 @@
 {
   "name": "deep-copy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "对数组或者对象进行深拷贝",
   "main": "index.js",
   "scripts": {
